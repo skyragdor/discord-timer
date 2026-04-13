@@ -12,7 +12,8 @@ The window stays always on top and doesn't interfere with anything.
 
 ## Screenshot
 
-> _(add a screenshot here)_
+<img width="340" height="343" alt="image" src="https://github.com/user-attachments/assets/f57d9a65-dffc-4dba-ac33-5e6ed15f8262" />
+
 
 ---
 
