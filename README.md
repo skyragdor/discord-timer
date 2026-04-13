@@ -12,7 +12,8 @@
 
 ## Скріншот
 
-> _(додай скріншот свого вікна сюди)_
+<img width="336" height="329" alt="image" src="https://github.com/user-attachments/assets/9af413cd-dd66-4f77-9707-43f5bb5a5669" />
+
 
 ---
 
